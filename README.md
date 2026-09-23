@@ -6,7 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/3bkader-gpt?label=Follow&style=social)](https://github.com/3bkader-gpt)
 [![Profile Views](https://komarev.com/ghpvc/?username=3bkader-gpt&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/3bkader-gpt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335.svg?logo=gmail&logoColor=white)](mailto:medo.omar.salama@gmail.com)
 
 ```text
@@ -71,20 +70,20 @@ I focus on building production-grade SaaS products with intricate domain logic, 
 
 ## 🚀 Flagship Engineering Showcases
 
-| Repository | Primary Domain | Tech Highlights | Key Engineering Achievement |
-| :--- | :--- | :--- | :--- |
-| [**`inventory-dashboard`**](https://github.com/3bkader-gpt/inventory-dashboard) | AI Enterprise SaaS | FastAPI, React, TypeScript, Gemini 2.0 Flash, Redis, Docker | Full-stack inventory platform featuring natural language search, predictive stockout analytics, and 90% read latency reduction via Redis caching. |
-| [**`fantasy-5aside`**](https://github.com/3bkader-gpt/fantasy-5aside) | Complex Domain SaaS | FastAPI, PostgreSQL, SQLAlchemy 2.0, Supabase, Render | Multi-tenant sports league engine with automated knockout brackets, background email/push workers, and a triple-layer anti-cheat MVP voting system. |
-| [**`ArchHunter`**](https://github.com/3bkader-gpt/ArchHunter) | Offensive Architecture Engine | Go, Python, gRPC / Protobuf, DFD Inference, STRIDE | Autonomous offensive framework that ingests raw telemetry (`httpx`, `katana`, `nmap`) to map trust boundaries and synthesize multi-stage exploit chains. |
-| [**`vercel-skills-poc`**](https://github.com/3bkader-gpt/vercel-skills-poc) | Critical AI Security Research | Node.js, AI Agent Security, CWE-94, Zero-Click RCE | Published security advisory and PoC demonstrating Critical Zero-Click Remote Code Execution via un-sandboxed skill frontmatter evaluation (CVSS 9.8). |
-| [**`cartoon`**](https://github.com/3bkader-gpt/cartoon) | Automation & Scraping Pipeline | FastAPI, Playwright, React, TailwindCSS, Plex / Kodi | Resilient media scraping engine with dynamic DOM sniffing, dual-layer SQLite caching, batch season downloads, and automated media server directory structuring. |
-| [**`quran-stream`**](https://github.com/3bkader-gpt/quran-stream) | Real-time Streaming Service | Python, FastAPI, FFmpeg Transcoding, RTMP, Docker | High-reliability live audio broadcasting microservice that continuously ingests M3U playlists and pushes low-latency RTMP streams to Telegram with an auto-reconnect watchdog. |
-| [**`fdfad`**](https://github.com/3bkader-gpt/fdfad) | Luxury Mobile E-Commerce | Next.js 16, React 19, Supabase (Postgres & RLS), Tailwind v4 | Mobile-first modest fashion digital boutique featuring bilingual Arabic (RTL) & English (LTR) localization, persistent Zustand cart, and Playwright E2E tests. |
-| [**`elnagdi-pos`**](https://github.com/3bkader-gpt/elnagdi-pos) | Commercial Retail Desktop POS | Electron 30, React, SQLite, Typst Receipt Engine | Offline-first grocery store Point of Sale desktop system with barcode scanner hardware integration, cashier shift reconciliation, and sub-second Typst thermal receipts. |
-| [**`private-recon-tools`**](https://github.com/3bkader-gpt/private-recon-tools) | Bug Bounty Scope Intelligence | Python, Async HTTPX, Playwright, Pydantic, Rich CLI | Automated scope validation pipeline that harvests, validates, and classifies active vs. defunct program scopes across HackerOne and Bugcrowd platforms. |
-| [**`pentest-checklists`**](https://github.com/3bkader-gpt/pentest-checklists) | Security Audit Knowledge Base | Markdown, OWASP ASVS 4.0, WSTG, MASVS | Comprehensive encyclopedia of 168+ offensive security checklists covering Web, API, Android, iOS, and Thick Client attack vectors. |
-| [**`fantasy_ai`**](https://github.com/3bkader-gpt/fantasy_ai) | Autonomous Optimization AI | Python, Google Gemini, MILP (OR-Tools, PuLP), Playwright | Mathematical optimization manager solving multi-horizon gameweek knapsacks, NLP press conference analysis, and headless FPL team submissions. |
-| [**`llm-security-vault`**](https://github.com/3bkader-gpt/llm-security-vault) | AI Red Teaming & Auth Research | Python, Telethon, HackerOne Disclosures | Threat intelligence archive tracking prompt injections, model jailbreaks, and modern authentication/authorization bypass techniques. |
+| Repository | Primary Domain | Live Demo / Access | Tech Highlights | Key Engineering Achievement |
+| :--- | :--- | :---: | :--- | :--- |
+| [**`inventory-dashboard`**](https://github.com/3bkader-gpt/inventory-dashboard) | AI Enterprise SaaS | [🐳 Docker Stack](https://github.com/3bkader-gpt/inventory-dashboard#--docker-deployment) | FastAPI, React, TypeScript, Gemini 2.0 Flash, Redis, Docker | Full-stack inventory platform featuring natural language search, predictive stockout analytics, and 90% read latency reduction via Redis caching. |
+| [**`fantasy-5aside`**](https://github.com/3bkader-gpt/fantasy-5aside) | Complex Domain SaaS | [⚡ Render Deploy](https://github.com/3bkader-gpt/fantasy-5aside#--deploying-to-production-render) | FastAPI, PostgreSQL, SQLAlchemy 2.0, Supabase, Render | Multi-tenant sports league engine with automated knockout brackets, background email/push workers, and a triple-layer anti-cheat MVP voting system. |
+| [**`fantasy_ai`**](https://github.com/3bkader-gpt/fantasy_ai) | Autonomous AI Optimization | [🌐 Live Dashboard](https://fantasy-ai-dashboard.pages.dev/) | Python, Google Gemini, MILP (OR-Tools, PuLP), Cloudflare | Mathematical optimization manager solving multi-horizon gameweek knapsacks, NLP press conference analysis, and headless FPL team submissions. |
+| [**`fdfad`**](https://github.com/3bkader-gpt/fdfad) | Luxury Mobile E-Commerce | [🌐 Live Store](https://fdfad.vercel.app/) | Next.js 16, React 19, Supabase (Postgres & RLS), Tailwind v4 | Mobile-first modest fashion digital boutique featuring bilingual Arabic (RTL) & English (LTR) localization, persistent Zustand cart, and Playwright E2E tests. |
+| [**`ArchHunter`**](https://github.com/3bkader-gpt/ArchHunter) | Offensive Architecture Engine | [⚡ CLI Runtime](https://github.com/3bkader-gpt/ArchHunter#-quick-start) | Go, Python, gRPC / Protobuf, DFD Inference, STRIDE | Autonomous offensive framework that ingests raw telemetry (`httpx`, `katana`, `nmap`) to map trust boundaries and synthesize multi-stage exploit chains. |
+| [**`vercel-skills-poc`**](https://github.com/3bkader-gpt/vercel-skills-poc) | Critical AI Security Research | [🚨 Security Advisory](https://github.com/3bkader-gpt/vercel-skills-poc) | Node.js, AI Agent Security, CWE-94, Zero-Click RCE | Published security advisory and PoC demonstrating Critical Zero-Click Remote Code Execution via un-sandboxed skill frontmatter evaluation (CVSS 9.8). |
+| [**`cartoon`**](https://github.com/3bkader-gpt/cartoon) | Automation & Scraping Pipeline | [🐳 Docker App](https://github.com/3bkader-gpt/cartoon#--docker-deployment) | FastAPI, Playwright, React, TailwindCSS, Plex / Kodi | Resilient media scraping engine with dynamic DOM sniffing, dual-layer SQLite caching, batch season downloads, and automated media server directory structuring. |
+| [**`quran-stream`**](https://github.com/3bkader-gpt/quran-stream) | Real-time Streaming Service | [📻 RTMP Streamer](https://github.com/3bkader-gpt/quran-stream#--docker-deployment) | Python, FastAPI, FFmpeg Transcoding, RTMP, Docker | High-reliability live audio broadcasting microservice that continuously ingests M3U playlists and pushes low-latency RTMP streams to Telegram with an auto-reconnect watchdog. |
+| [**`elnagdi-pos`**](https://github.com/3bkader-gpt/elnagdi-pos) | Commercial Retail Desktop POS | [🛒 Desktop App](https://github.com/3bkader-gpt/elnagdi-pos#--production-packaging) | Electron 30, React, SQLite, Typst Receipt Engine | Offline-first grocery store Point of Sale desktop system with barcode scanner hardware integration, cashier shift reconciliation, and sub-second Typst thermal receipts. |
+| [**`private-recon-tools`**](https://github.com/3bkader-gpt/private-recon-tools) | Bug Bounty Scope Intelligence | [🛰️ CLI Pipeline](https://github.com/3bkader-gpt/private-recon-tools#-installation--quick-start) | Python, Async HTTPX, Playwright, Pydantic, Rich CLI | Automated scope validation pipeline that harvests, validates, and classifies active vs. defunct program scopes across HackerOne and Bugcrowd platforms. |
+| [**`pentest-checklists`**](https://github.com/3bkader-gpt/pentest-checklists) | Security Audit Knowledge Base | [📚 Checklists Vault](https://github.com/3bkader-gpt/pentest-checklists#-checklist-index--coverage) | Markdown, OWASP ASVS 4.0, WSTG, MASVS | Comprehensive encyclopedia of 168+ offensive security checklists covering Web, API, Android, iOS, and Thick Client attack vectors. |
+| [**`llm-security-vault`**](https://github.com/3bkader-gpt/llm-security-vault) | AI Red Teaming & Auth Research | [🧠 Threat Vault](https://github.com/3bkader-gpt/llm-security-vault#-research-vaults) | Python, Telethon, HackerOne Disclosures | Threat intelligence archive tracking prompt injections, model jailbreaks, and modern authentication/authorization bypass techniques. |
 
 ---
 
@@ -105,7 +104,6 @@ I focus on building production-grade SaaS products with intricate domain logic, 
 
 ## 📬 Connect with Me
 
-- 💼 **LinkedIn:** Let's connect and discuss software engineering or security challenges.
 - 📧 **Direct Email:** [`medo.omar.salama@gmail.com`](mailto:medo.omar.salama@gmail.com)
 - 🐙 **GitHub:** [`@3bkader-gpt`](https://github.com/3bkader-gpt)
 
